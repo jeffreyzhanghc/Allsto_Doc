@@ -1,6 +1,6 @@
 # Table of contents
 
-* [AllsTo Docs](README.md)
+* [AllsTo Documentation](README.md)
 
 ## Payment Flow
 

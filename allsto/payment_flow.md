@@ -9,6 +9,7 @@ Visit https://gateway.alls.to/test to start and click on **Create Payment Intent
 ![Create Payment Intent](./asset/1.png)
 
 When a receipt number is shown below **Create Payment Intent** button, A Payment Intent is successfully created.
+
 ![Create Payment Intent](./asset/2.png)
 
 ## Pay with AllsTo
@@ -33,6 +34,7 @@ Once wallet is connected, a order summary will be shown. Please verify all detai
 ![Pay with AllsTo](./asset/4.png)
 
 Verify again the payee information, and tick the checkbox if you're using hardware wallet. Click on **CONFIRM** to submit the payment to the blockchain.
+
 ![Pay with AllsTo](./asset/5.png)
 
 Blockchain Payment usually takes 1-2 minutes to process, once completed, the popup window will notify the user and redirect to the order completion page.
