@@ -15,6 +15,7 @@ When a receipt number is shown below **Create Payment Intent** button, A Payment
 ## Pay with AllsTo
 
 Visit https://gateway.alls.to/test to start,please make sure that you have a valid payment intent before you proceed, otherwise follow [Create a Payment Intent](./#Create-a-Payment-Intent) to create one.
+
 ![Pay with AllsTo](./asset/2.png)
 
 You will have the options of **Pay with Crypto** or **Pay with Fiat** to pay on AllsTo.
