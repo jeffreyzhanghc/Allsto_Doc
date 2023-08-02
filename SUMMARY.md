@@ -14,7 +14,7 @@
 * [Management Dashboard](management/dashboard.md)
 
 ## Integration Tutorial
-
-* [Integration Tutorial](Integration_Tutorial/Configuration.md)
-* [Integration Tutorial](Integration_Tutorial/Code_Check.md)
+* [Integration Tutorial](Integration_Tutorial/Account_Creation.md)
+* [Integration Tutorial](Integration_Tutorial/Settings.md)
+* [Integration Tutorial](Integration_Tutorial/Products_Creation.md)
 * [Integration Tutorial](Integration_Tutorial/Payment_test.md)

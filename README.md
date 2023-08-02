@@ -43,12 +43,22 @@ Learn about management dashboard:
 ## Integration Tutorial
 
 Learn how to integrate to use our product and test using demo:
-
-{% content-ref url="management/dashboard.md" %}
-[Integration Tutorial](Integration_Tutorial/Configuration.md)
-[Integration Tutorial](Integration_Tutorial/Code_Check.md)
-[Integration Tutorial](Integration_Tutorial/Payment_test.md)
+{% content-ref url="Integration_Tutorial/Account_Creation.md" %}
+[Integration Tutorial](Integration_Tutorial/Account_Creation.md)
 {% endcontent-ref %}
+
+{% content-ref url="Integration_Tutorial/Settings.md" %}
+[Integration Tutorial](Integration_Tutorial/Settings.md)
+{% endcontent-ref %}
+
+{% content-ref url="Integration_Tutorial/Products_Creation.md" %}
+[Integration Tutorial](Integration_Tutorial/Products_Creation.md)
+{% endcontent-ref %}
+
+{% content-ref url="Integration_Tutorial/Payment_Test.md" %}
+[Integration Tutorial](Integration_Tutorial/Payment_Test.md)
+{% endcontent-ref %}
+
 
 ## Official Links
 
