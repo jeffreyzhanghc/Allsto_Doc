@@ -40,6 +40,16 @@ Learn about management dashboard:
 [Management Dashboard](management/dashboard.md)
 {% endcontent-ref %}
 
+## Integration Tutorial
+
+Learn how to integrate to use our product and test using demo:
+
+{% content-ref url="management/dashboard.md" %}
+[Integration Tutorial](Integration_Tutorial/Configuration.md)
+[Integration Tutorial](Integration_Tutorial/Code_Check.md)
+[Integration Tutorial](Integration_Tutorial/Payment_test.md)
+{% endcontent-ref %}
+
 ## Official Links
 
 Find us on your favorite social platforms for latest AllsTo news:

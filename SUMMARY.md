@@ -12,3 +12,9 @@
 ## Management Dashboard
 
 * [Management Dashboard](management/dashboard.md)
+
+## Integration Tutorial
+
+* [Integration Tutorial](Integration_Tutorial/Configuration.md)
+* [Integration Tutorial](Integration_Tutorial/Code_Check.md)
+* [Integration Tutorial](Integration_Tutorial/Payment_test.md)
