@@ -20,7 +20,7 @@ Follow the [Stripe Configuration](../connection/stripe.md) to finish the stripe 
 
 ## Crypto Configuration
 
-Also make sure to set your receving chain and address:
+Also make sure to set your receving chain and address under **Crypto Configuration**:
 
 ![](./asset/crypto.png)
 
