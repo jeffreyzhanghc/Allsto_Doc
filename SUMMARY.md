@@ -17,4 +17,4 @@
 * [Account Creation](Integration_Tutorial/Account_Creation.md)
 * [Settings](Integration_Tutorial/Settings.md)
 * [Products Creation](Integration_Tutorial/Products_Creation.md)
-* [Payment Test](Integration_Tutorial/Payment_test.md)
+* [Payment Test](Integration_Tutorial/Payment_Test.md)
