@@ -1,9 +1,11 @@
-# Account Creation
+# Management Dashboard Account Creation
 
 ## Sign in Using Github
-Go to allsto [Allsto gateway](https://gateway.alls.to), click on the Log in button and sign up with github:
+Go to allsto [Management Dashboard](https://gateway.alls.to), click on the Log in button and sign up with github:
 
 ![](./asset/signin_github.png)
+
+If you are the first-time user, you may see nothing except a white screen, and that is because you **need to register your management dashboard account first**.  
 
 ## Register Information needed
 
@@ -11,7 +13,7 @@ As for now, Allsto adopts manual input of business's information. To successfull
 
 ## Log-in Success
 
-After receiving the feedback by Allsto team, click on the account at top right corner, sign out and re-sign in to get the full access **(No need to re-sign in evert time)**
+After receiving the register confirmation by Allsto team, click on the account at top right corner, sign out and re-sign in to get the full access **(No need to re-sign in evert time)**
 
 ![](./asset/sign_out.png)
 

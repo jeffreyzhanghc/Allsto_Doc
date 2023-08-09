@@ -14,7 +14,7 @@
 * [Management Dashboard](management/dashboard.md)
 
 ## Integration Tutorial
-* [Account Creation](Integration_Tutorial/Account_Creation.md)
+* [Management Dashboard Account Creation](Integration_Tutorial/Account_Creation.md)
 * [Settings](Integration_Tutorial/Settings.md)
 * [Products Creation](Integration_Tutorial/Products_Creation.md)
 * [Payment Test](Integration_Tutorial/Payment_Test.md)
