@@ -5,7 +5,7 @@ Go to allsto [Management Dashboard](https://gateway.alls.to), click on the Log i
 
 ![](./asset/signin_github.png)
 
-If you are the first-time user, you may see nothing except a white screen, and that is because you **need to register your management dashboard account first**.  
+If you are the **first-time user**, you may see nothing except a white screen. This is because you **need to register your management dashboard account first**.  
 
 ## Register Information needed
 
@@ -13,7 +13,7 @@ As for now, Allsto adopts manual input of business's information. To successfull
 
 ## Log-in Success
 
-After receiving the register confirmation by Allsto team, click on the account at top right corner, sign out and re-sign in to get the full access **(No need to re-sign in evert time)**
+After receiving the registration confirmation by Allsto team, click on the account at top right corner, sign out and re-sign in to get the full access **(No need to re-sign in every time, only for the first-time account activation)**
 
 ![](./asset/sign_out.png)
 
