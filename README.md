@@ -19,19 +19,19 @@ In the meantime, AllsTo monitors the payment services market as it evolves and p
 
 Allsto for Enterprise streamlines daily cryptocurrency transactions with a suite of easy-to-use process management services, including:
 
-1. Acquire: Simplified acquisition of cryptocurrencies for business purposes.
-2. Payment process management: Efficient handling and organization of payment transactions.
-3. Receipt & invoice generation: Automated generation of receipts and invoices for seamless record-keeping.
-4. Accounting integration: Smooth integration with existing accounting systems for streamlined financial management.
+- Acquire: Simplified acquisition of cryptocurrencies for business purposes.
+- Payment process management: Efficient handling and organization of payment transactions.
+- Receipt & invoice generation: Automated generation of receipts and invoices for seamless record-keeping.
+- Accounting integration: Smooth integration with existing accounting systems for streamlined financial management.
 
 ## Allsto also provide service for individuals
 
 Allsto's unique approach to payment services includes features such as:
 
-1. Unified payment portal: Users can easily set up a QR code or link for a consolidated payment entrance, streamlining the payment process for both payers and recipients.
-2. Simplified cross-chain experience: Allsto eliminates the need for manual cross-chain operations by automating the process, ensuring a smooth and hassle-free experience for all parties involved.
-3. Enhanced social connectivity: With DID login integration, users can effortlessly transfer funds among friends, enriching their social interactions within the platform.
-4. Notifications: Allsto will keeps users informed with timely notifications, helping them stay up-to-date on their payment activities.
+- Unified payment portal: Users can easily set up a QR code or link for a consolidated payment entrance, streamlining the payment process for both payers and recipients.
+- Simplified cross-chain experience: Allsto eliminates the need for manual cross-chain operations by automating the process, ensuring a smooth and hassle-free experience for all parties involved.
+- Enhanced social connectivity: With DID login integration, users can effortlessly transfer funds among friends, enriching their social interactions within the platform.
+- Notifications: Allsto will keeps users informed with timely notifications, helping them stay up-to-date on their payment activities.
 
 
 ## Payment Flow: Jump right in
