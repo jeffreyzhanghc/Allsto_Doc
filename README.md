@@ -43,6 +43,26 @@ Learn about management dashboard:
 [Management Dashboard](management/dashboard.md)
 {% endcontent-ref %}
 
+## Management Dashboard
+
+Learn about integration tutorial:
+
+{% content-ref url="Integration_Tutorial/Account_Creation.md" %}
+[Dashboard Account Creation](Integration_Tutorial/Account_Creation.md)
+{% endcontent-ref %}
+
+{% content-ref url="Integration_Tutorial/Settings.md" %}
+[Settings](Integration_Tutorial/Settings.md)
+{% endcontent-ref %}
+
+{% content-ref url="Integration_Tutorial/Products_Creation.md" %}
+[Product Creation](Integration_Tutorial/Products_Creation.md)
+{% endcontent-ref %}
+
+{% content-ref url="Integration_Tutorial/Payment_Test.md" %}
+[Payment Test](Integration_Tutorial/Payment_Test.md)
+{% endcontent-ref %}
+
 ## Official Links
 
 Find us on your favorite social platforms for latest AllsTo news:
