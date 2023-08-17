@@ -1,9 +1,10 @@
 
+# Welcome to AllsTo
 Welcome to the official documentation site for AllsTo which aims to provide universal payment infra for global SMEs.
 AllsTo provides a unified yet flexible payment interface for web3 application with broad coverage on fiat and crypto payment methods.
 
 
-# Welcome to AllsTo
+
 
 
 ## What does Allsto provide
