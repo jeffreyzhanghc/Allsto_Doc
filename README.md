@@ -1,8 +1,7 @@
 ---
 description: >-
-  Welcome to the official documentation site for AllsTo which aims to provide universal payment infra for global SMEs.
-AllsTo provides a unified yet flexible payment interface for web3 application with broad coverage on fiat and crypto payment methods.
-
+  Welcome to the official documentation site for AllsTo Protocol which aims to
+  provide universal payment gateway for web2 and web3 payments.
 ---
 
 # Welcome to AllsTo
@@ -14,24 +13,6 @@ AllsTo is a universal payment gateway for web2 and web3 payments. With its built
 AllsTo supports leading web2 and web3 payment services such as [Stripe](https://stripe.com) and [Meson](https://meson.fi), and hence support not only traditional payment methods of bank accounts, and credit cards but also crypto payments in USDC/USDT/BUSD from 20+ leading blockchains.
 
 In the meantime, AllsTo monitors the payment services market as it evolves and plans to aggregate more payment services to cope with the growing demand of the market.
-
-## What does Allsto provide
-
-Allsto for Enterprise streamlines daily cryptocurrency transactions with a suite of easy-to-use process management services, including:
-
-- Acquire: Simplified acquisition of cryptocurrencies for business purposes.
-- Payment process management: Efficient handling and organization of payment transactions.
-- Receipt & invoice generation: Automated generation of receipts and invoices for seamless record-keeping.
-- Accounting integration: Smooth integration with existing accounting systems for streamlined financial management.
-
-## Allsto also provide service for individuals
-
-Allsto's unique approach to payment services includes features such as:
-
-- Unified payment portal: Users can easily set up a QR code or link for a consolidated payment entrance, streamlining the payment process for both payers and recipients.
-- Simplified cross-chain experience: Allsto eliminates the need for manual cross-chain operations by automating the process, ensuring a smooth and hassle-free experience for all parties involved.
-- Enhanced social connectivity: With DID login integration, users can effortlessly transfer funds among friends, enriching their social interactions within the platform.
-- Notifications: Allsto will keeps users informed with timely notifications, helping them stay up-to-date on their payment activities.
 
 
 ## Payment Flow: Jump right in
