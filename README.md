@@ -1,22 +1,21 @@
 
-Welcome to the official documentation site for AllsTo which aims to provide universal payment infra for global SMEs.
-AllsTo provides a unified yet flexible payment interface for web3 application with broad coverage on fiat and crypto payment methods.
+Welcome to the official documentation portal for AllsTo, an innovative platform dedicated to establishing a universal payment infrastructure tailored for small and medium-sized enterprises (SMEs) worldwide. Our mission at AllsTo is to streamline financial transactions for web3 applications by offering a comprehensive, adaptable payment interface. This platform supports a wide array of payment methods, including both traditional fiat currencies and various cryptocurrencies, ensuring extensive coverage and flexibility to meet diverse business needs.
 
 
 ## What does Allsto provide
 Allsto for Enterprise streamlines daily cryptocurrency transactions with a suite of easy-to-use process management services, including:
 1. Acquire: Simplified acquisition of cryptocurrencies for business purposes.
 2. Payment process management: Efficient handling and organization of payment transactions.
-3. Receipt & invoice generation: Automated generation of receipts and invoices for seamless record-keeping.
+3. Receipt and invoice generation: Automated generation of receipts and invoices for seamless record-keeping.
 4. Accounting integration: Smooth integration with existing accounting systems for streamlined financial management.
 
 ## Allsto for Dapps
 
-1. Liquidity problem solving：Assist on-ramp company in rapidly acquiring stablecoin purchasing capabilities across omni chain, enhancing the efficiency of capital turnover by 30 times.
+1. Liquidity problem solving: Assist on-ramp company in rapidly acquiring stablecoin purchasing capabilities across omni chain, enhancing the efficiency of capital turnover by 30 times.
 
-2. Web2 User onboard：Universal Gateway of web2/web3 payment services (Stripe, Alipay, WeChat, etc.)
+2. Web2 User onboard: Universal Gateway of web2/web3 payment services (Stripe, Alipay, WeChat, etc.)
 
-3. Web3 User onboard：Allsto resolves the on-chain liquidity issues of DAPPs. Assisting DAPPs in receiving payments across all blockchains at low cost.
+3. Web3 User onboard: Allsto resolves the on-chain liquidity issues of DAPPs. Assisting DAPPs in receiving payments across all blockchains at low cost.
 
 ## Allsto for Onramp company
 
