@@ -21,4 +21,4 @@
 * [Link Integration](Integration_Tutorial/Link_Integration.md)
 
 ## Miscellaneous
-* [Supported Chains and Stablecoins](miscellaneous/supported.md)
+* [Supported Chains and Tokens](miscellaneous/supported.md)
