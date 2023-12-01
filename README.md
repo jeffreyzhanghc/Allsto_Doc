@@ -10,6 +10,16 @@ Allsto for Enterprise streamlines daily cryptocurrency transactions with a suite
 3. Receipt & invoice generation: Automated generation of receipts and invoices for seamless record-keeping.
 4. Accounting integration: Smooth integration with existing accounting systems for streamlined financial management.
 
+## Allsto for Dapps
+
+Liquidity problem solving：Assist on-ramp company in rapidly acquiring stablecoin purchasing capabilities across omni chain, enhancing the efficiency of capital turnover by 30 times.
+
+Web2 User onboard：
+Universal Gateway of web2/web3 payment services (Stripe, Alipay, WeChat, etc. )
+
+Web3 User onboard：
+Allsto resolves the on-chain liquidity issues of DAPPs. Assisting DAPPs in receiving payments across all blockchains at low cost.
+
 ## Allsto also provide service for individuals
 Allsto's unique approach to payment services includes features such as:
 1. Unified payment portal: Users can easily set up a QR code or link for a consolidated payment entrance, streamlining the payment process for both payers and recipients.
