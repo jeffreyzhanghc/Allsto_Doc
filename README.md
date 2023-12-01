@@ -12,15 +12,11 @@ Allsto for Enterprise streamlines daily cryptocurrency transactions with a suite
 
 ## Allsto for Dapps
 
-Liquidity problem solving：Assist on-ramp company in rapidly acquiring stablecoin purchasing capabilities across omni chain, enhancing the efficiency of capital turnover by 30 times.
+1. Liquidity problem solving：Assist on-ramp company in rapidly acquiring stablecoin purchasing capabilities across omni chain, enhancing the efficiency of capital turnover by 30 times.
 
-Web2 User onboard：
+2. Web2 User onboard：Universal Gateway of web2/web3 payment services (Stripe, Alipay, WeChat, etc.)
 
-Universal Gateway of web2/web3 payment services (Stripe, Alipay, WeChat, etc.)
-
-Web3 User onboard：
-
-Allsto resolves the on-chain liquidity issues of DAPPs. Assisting DAPPs in receiving payments across all blockchains at low cost.
+3. Web3 User onboard：Allsto resolves the on-chain liquidity issues of DAPPs. Assisting DAPPs in receiving payments across all blockchains at low cost.
 
 ## Allsto also provide service for individuals
 Allsto's unique approach to payment services includes features such as:
