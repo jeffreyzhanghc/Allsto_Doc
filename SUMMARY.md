@@ -18,7 +18,7 @@
 * [Settings](Integration_Tutorial/Settings.md)
 * [Products Creation](Integration_Tutorial/Products_Creation.md)
 * [Payment Test](Integration_Tutorial/Payment_Test.md)
-* [Link Integration](Intergration_Tutorial/Link_Integration.md)
+* [Link Integration](Integration_Tutorial/Link_Integration.md)
 
 ## Miscellaneous
 * [Supported Chains and Stablecoins](miscellaneous/supported.md)
