@@ -21,16 +21,16 @@ Clicking the "Open AllsTo Link" button will open a new window with the specified
 
 ## Link Structure
 
-The AllsTo link structure is constructed as follows: `https://t.alls.to/{chain}/{recipient_address}`. The chain and recipient address are concatenated after the base URL. For testnets, replace the base URL with `https://testnet.t.alls.to/`. See [supported chains and tokens](../miscellaneous/supported.md).
+The AllsTo link structure is constructed as follows: `https://t.alls.to/{chain}/{recipient_address}`. The chain and recipient address are concatenated after the base URL. See [supported chains and tokens](../miscellaneous/supported.md).
 
-Here's an example of a AllsTo link for the BNB Testnet:
+Here's an example of a AllsTo link for the BNB Chain:
 
 ```jsx live
 function AllsToLinkOnTestnet() {
-  const link = 'https://testnet.t.alls.to/bnb-testnet/0x00C8B032c76BC8E669ce43b2bA03705Fd52A8edE'
+  const link = 'https://testnet.t.alls.to/bnb/0x00C8B032c76BC8E669ce43b2bA03705Fd52A8edE'
   return (
     <button onClick={() => window.open(link, 'Alls.to', 'width=375,height=640')}>
-      Open AllsTo Link on Testnet
+      Open AllsTo Link on BNB Chain
     </button>
   )
 }
