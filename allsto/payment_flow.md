@@ -20,8 +20,8 @@ Visit https://gateway.alls.to/test to start,please make sure that you have a val
 
 You will have the options of **Pay with Crypto** or **Pay with Fiat** to pay on AllsTo.
 
-* [Pay with Crypto](./#Pay-with-crypto)
-* [Pay with Fiat](./#Pay-with-fiat)
+* [Pay with Crypto](./payment_flow.md#Pay-with-crypto)
+* [Pay with Fiat](./payment_flow.md#Pay-with-fiat)
 
 ## Pay with Crypto
 Click **Pay with Crypto** to proceed paying with crypto. In the popup window, select the blockchain you wish to pay from the list next to **FROM** and select the stablcoins by icon you wish to pay from next to the payment amount. You will have the option to switch to **Pay with Fiat** at this stage.
